@@ -1191,5 +1191,22 @@
   "pin.setup": "Set a PIN",
   "pin.change": "Enter a new PIN",
   "pin.repeat": "Repeat the PIN",
-  "pin.signInLogin": "Log in using login and password"
+  "pin.signInLogin": "Log in using login and password",
+  "profile.accountInformation": "Account information",
+  "events_all": "All episodes",
+  "sort.old": "Сначала старые",
+  "sort.new": "Сначала новые",
+  "sort.asc": "По возрастанию",
+  "sort.desc": "По убыванию",
+  "events_person": "Person",
+  "events_car": "Car",
+  "events_motion": "Motion",
+  "settings": "Settings",
+  "streamer_new": "New streamer",
+  "streams.issueByLetsEncrypt": "issue by LetsEncrypt",
+  "streams.domainsLabel": "Domains",
+  "streams.issuerLabel": "Issuer",
+  "streams.validUntilLabel": "Valid until",
+  "delete": "Delete",
+  "shares": "Shares"
 }

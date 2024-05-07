@@ -1189,5 +1189,22 @@
   "pin.setup": "Задайте PIN",
   "pin.change": "Введите новый PIN",
   "pin.repeat": "Повторите PIN",
-  "pin.signInLogin": "Зайти, используя логин и пароль"
+  "pin.signInLogin": "Зайти, используя логин и пароль",
+  "profile.accountInformation": "Информация об аккаунте",
+  "events_all": "Все события",
+  "sort.new": "Starts with new",
+  "sort.old": "Starts with old",
+  "sort.asc": "Sort asc",
+  "sort.desc": "Sort desc",
+  "events_person": "Человек",
+  "events_car": "Машина",
+  "events_motion": "Движение",
+  "settings": "Настройки",
+  "streamer_new": "Новый стример",
+  "streams.issueByLetsEncrypt": "Выпустить сертификат LetsEncrypt",
+  "streams.domainsLabel": "Домены",
+  "streams.issuerLabel": "Центр сертификации",
+  "streams.validUntilLabel": "Действителен до",
+  "delete": "Удалить",
+  "shares": "Шаринг"
 }
