@@ -23,6 +23,7 @@
   "auth.check_recovery_email": "Please check recovery email inbox to reset your password",
   "auth.confirm_password": "Confirm password",
   "auth.continue": "Continue",
+  "auth.signIn": "Sign in",
   "auth.demo_access": "Continue with access to Public cameras",
   "auth.enter_new_password": "Enter new password and confirm:",
   "auth.enter_recovery_email": "Enter your recovery email",
@@ -1181,5 +1182,14 @@
   "profile.notifications.pushApi.noSupport": "Push api is not supported",
   "profile.notifications.subscribeError": "Unable to subscribe to push.",
   "profile.notifications.serviceWorkerNotRegister": "Service worker is not registered",
-  "profile.uiNotification.label": "Enable push notifications to get instant alerts about replies from support team or unpaid invoices."
+  "profile.uiNotification.label": "Enable push notifications to get instant alerts about replies from support team or unpaid invoices.",
+  "pin.login": "Enter a code for a quick login",
+  "pin.invalid": "Invalid PIN",
+  "pin.forgot": "Forgot your PIN?",
+  "pin.skip": "Skip",
+  "pin.cancel": "Cancel",
+  "pin.setup": "Set a PIN",
+  "pin.change": "Enter a new PIN",
+  "pin.repeat": "Repeat the PIN",
+  "pin.signInLogin": "Log in using login and password"
 }
