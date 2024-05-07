@@ -23,6 +23,7 @@
   "auth.check_recovery_email": "Пожалуйста, проверьте почтовый ящик, чтобы сбросить пароль",
   "auth.confirm_password": "Подтвердите пароль",
   "auth.continue": "Продолжить",
+  "auth.signIn": "Войти",
   "auth.demo_access": "Продолжить с доступом к публичным камерам",
   "auth.enter_new_password": "Введите новый пароль и подтвердите:",
   "auth.enter_recovery_email": "Введите адрес электронной почты для восстановления",
@@ -1179,5 +1180,14 @@
   "profile.notifications.pushApi.noSupport": "Push api не поддерживается",
   "profile.notifications.subscribeError": "Не удается подписаться",
   "profile.notifications.serviceWorkerNotRegister": "Service worker не зарегистрирован",
-  "profile.uiNotification.label": "Включите push-уведомления, чтобы получать мгновенные оповещения об ответах от службы поддержки или неоплаченных счетах."
+  "profile.uiNotification.label": "Включите push-уведомления, чтобы получать мгновенные оповещения об ответах от службы поддержки или неоплаченных счетах.",
+  "pin.login": "Введите код для быстрого входа",
+  "pin.invalid": "Неверный PIN",
+  "pin.forgot": "Забыли PIN?",
+  "pin.skip": "Пропустить",
+  "pin.cancel": "Отменить",
+  "pin.setup": "Задайте PIN",
+  "pin.change": "Введите новый PIN",
+  "pin.repeat": "Повторите PIN",
+  "pin.signInLogin": "Зайти, используя логин и пароль"
 }
