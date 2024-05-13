@@ -1206,5 +1206,7 @@
   "streams.issuerLabel": "Центр сертификации",
   "streams.validUntilLabel": "Действителен до",
   "delete": "Удалить",
-  "shares": "Шаринг"
+  "shares": "Шаринг",
+  "installPwa.installButton": "Установить",
+  "installPwa.text": "Используйте {{product}} в качестве приложения"
 }
