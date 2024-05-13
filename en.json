@@ -1208,5 +1208,7 @@
   "streams.issuerLabel": "Issuer",
   "streams.validUntilLabel": "Valid until",
   "delete": "Delete",
-  "shares": "Shares"
+  "shares": "Shares",
+  "installPwa.installButton": "Install",
+  "installPwa.text": "Use {{product}} as an app"
 }
